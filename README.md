@@ -10,3 +10,4 @@
 - https://dou.ua/lenta/articles/feed/
 - https://www.reddit.com/r/software_testing/.rss
 - https://www.reddit.com/r/QualityAssurance/.rss
+- https://sqa.stackexchange.com/feeds
