@@ -11,3 +11,5 @@
 - https://www.reddit.com/r/software_testing/.rss
 - https://www.reddit.com/r/QualityAssurance/.rss
 - https://sqa.stackexchange.com/feeds
+- http://www.satisfice.com/blog/feed
+- https://www.stickyminds.com/rss-stickyminds
