@@ -14,3 +14,4 @@
 - http://www.satisfice.com/blog/feed
 - https://www.stickyminds.com/rss-stickyminds
 - http://www.developsense.com/blog/feed/
+- http://hypothesis.works/articles/feed/
