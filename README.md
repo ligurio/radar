@@ -15,3 +15,6 @@
 - https://www.stickyminds.com/rss-stickyminds
 - http://www.developsense.com/blog/feed/
 - http://hypothesis.works/articles/feed/
+- http://www.kohl.ca/feed/
+- https://feeds.feedburner.com/qualityfrog
+- http://testobsessed.com/feed/
