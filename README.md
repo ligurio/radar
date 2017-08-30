@@ -7,6 +7,7 @@
 - https://blog.mozilla.org/webqa/feed/
 - http://testingconferences.org/feed.xml
 - https://lobste.rs/t/testing.rss
+- https://lobste.rs/t/formalmethods.rss
 - https://dou.ua/lenta/articles/feed/
 - https://www.reddit.com/r/software_testing/.rss
 - https://www.reddit.com/r/QualityAssurance/.rss
