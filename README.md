@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ligurio/software-testing-planet.svg?branch=master)](https://travis-ci.org/ligurio/software-testing-planet)
+
 # Software Testing Planet
 
 source code of site [Software Testing
