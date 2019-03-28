@@ -8,6 +8,8 @@ FILES += opml.xml
 FILES += rss10.xml
 FILES += rss20.xml
 
+DEST_DIR = /var/www/htdocs/www.bronevichok.ru/radar/
+
 all: update
 
 update:
@@ -15,7 +17,7 @@ update:
 	cd venus/; python planet.py -v ../config.ini
 
 copy:
-	scp -r ${FILES} gw.bronevichok.ru:/var/www/htdocs/www.bronevichok.ru/sqa-planet/
+	scp -r ${FILES} bronevichok.ru:${DEST_DIR}
 
 publish:
-	cp -R ${FILES} /var/www/htdocs/www.bronevichok.ru/sqa-planet/
+	cp -R ${FILES} ${DEST_DIR}
