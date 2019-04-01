@@ -3,7 +3,6 @@ FILES += css
 FILES += foafroll.xml
 FILES += images
 FILES += index.html
-FILES += openbsd.png
 FILES += opml.xml
 FILES += rss10.xml
 FILES += rss20.xml
