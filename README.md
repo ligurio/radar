@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/ligurio/radar.svg?branch=master)](https://travis-ci.org/ligurio/radar)
 
-# Radar
+# Software Testing Radar 📡
 
 is a site with all news around software testing and software quality. Site consists from static HTML pages generated using
 [venus](http://www.intertwingly.net/code/venus/).
